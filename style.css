@@ -1,0 +1,237 @@
+body {
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	background-color: #000;
+}
+
+.conteiner {
+	margin: 0px 166px;
+}
+
+.header {
+	background-image: url(bg2.jpg);
+	height: 100vh;
+	background-size: cover;
+	padding: 30px;
+}
+
+.header-line {
+	padding-top: 50px;
+	display: flex;
+	align-items: center;
+}
+
+.nav-item1 {
+	color: #8A2BE2;
+	text-decoration: none;
+	font-size: 14px;
+	margin-right: 25px;
+}
+
+.nav-item2 {
+	color: #FFD700;
+	text-decoration: none;
+	font-size: 14px;
+	margin-right: 25px;
+}
+
+.nav-item3 {
+	color: #88CC88;
+	text-decoration: none;
+	font-size: 14px;
+	margin-right: 25px;
+}
+
+.nav-item4 {
+	color: #DC143C;
+	text-decoration: none;
+	font-size: 14px;
+	margin-right: 25px;
+}
+
+
+.nav-item1:hover {
+	color: #800080;
+	text-decoration: underline;
+}
+
+.nav-item2:hover {
+	color: #FF8C00;
+	text-decoration: underline;
+}
+
+.nav-item3:hover {
+	color: #006400;
+	text-decoration: underline;
+}
+
+.nav-item4:hover {
+	color: #8B0000;
+	text-decoration: underline;
+}
+
+.block{
+	background: url(bg.jpg) 50%/ cover no-repeat;
+	margin: 450px 0 0 0;
+	height: 200px;
+	border-radius: 15px;
+	box-shadow: 0 0 10px #000;
+	background-attachment: fixed;
+}
+
+.shadowbox1 {
+	width: 15em;
+	border: 1px solid #888;
+	box-shadow: 8px 8px 20px #444;
+	padding: 8px 12px;
+	background-image: linear-gradd=ient(180deg, #fff, #ddd 40%, #ccc);
+	border-radius: 15px;
+}
+
+.shadowbox2 {
+	width: 15em;
+	border: 1px solid #888;
+	box-shadow: 8px 8px 20px #444;
+	padding: 8px 12px;
+	background-image: linear-gradd=ient(180deg, #fff, #ddd 40%, #ccc);
+	border-radius: 15px;
+}
+
+.shadowbox3 {
+	width: 15em;
+	border: 1px solid #888;
+	box-shadow: 8px 8px 20px #444;
+	padding: 8px 12px;
+	background-image: linear-gradd=ient(180deg, #fff, #ddd 40%, #ccc);
+	border-radius: 15px;
+}
+
+.shadowbox4 {
+	width: 15em;
+	border: 1px solid #888;
+	box-shadow: 8px 8px 20px #444;
+	padding: 8px 12px;
+	background-image: linear-gradd=ient(180deg, #fff, #ddd 40%, #ccc);
+	border-radius: 15px;
+}
+
+.link1{
+	text-decoration: none;
+	color:#8A2BE2;
+}
+
+.link2{
+	text-decoration: none;
+	color: #FFD700;
+}
+
+.link3{
+	text-decoration: none;
+	color:#88CC88;
+}
+
+.link4{
+	text-decoration: none;
+	color:#DC143C;
+}
+
+.link1:hover {
+	color: #800080;
+	text-decoration: underline;
+	background-color: #8A2BE2
+}
+
+.link2:hover {
+	color: #FF8C00;
+	text-decoration: underline;
+	background-color: #FFFF00
+}
+
+.link3:hover {
+	color: #006400;
+	text-decoration: underline;
+	background-color: #9ACD32
+}
+
+.link4:hover {
+	color: #8B0000;
+	text-decoration: underline;
+	background-color: #DC143C;
+}
+
+.cart-image1{
+	border-radius: 15px;
+	margin: -170px 155px 30px 500px;
+	height: 170px;
+	width: 300px;
+}
+
+.cart-image2{
+	border-radius: 15px;
+	margin: -900px 0px 10px 500px;
+	height: 337px;
+	width: 600px;
+}
+
+.cart-image3{
+	border-radius: 15px;
+	margin: -1000px 155px 105px 500px;
+}
+
+.cart-image4{
+	border-radius: 15px;
+	margin: -500px 155px 30px 500px;
+	height: 337px;
+}
+
+p {
+	color: #fff;
+}
+
+.conteiner {
+	margin-top: 25px;
+}
+
+.block1 {
+	background: url(bgbox.jpg) 50%/ cover no-repeat;
+	margin: 0 0 0 0;
+	width: 15em;
+	border-radius: 15px;
+	box-shadow: 0 0 10px #000;
+	background-attachment: fixed;
+	background-position: 150px 0;
+	background-size: contain;
+}
+
+.block2{
+	background: url(bgbox2.jpg) 50%/ cover no-repeat;
+	margin: 0 0 0 0;
+	width: 15em;
+	border-radius: 15px;
+	box-shadow: 0 0 10px #000;
+	background-attachment: fixed;
+	background-position: -350px 0px;
+	background-size: contain;
+}
+
+.block3{
+	background: url(bgbox3.jpg) 50%/ cover no-repeat;
+	margin: 0 0 0 0;
+	width: 15em;
+	border-radius: 15px;
+	box-shadow: 0 0 10px #000;
+	background-attachment: fixed;
+	background-position: 45px 0px;
+	background-size: contain;
+}
+
+.block4{
+	background: url(bgbox4.jpg) 50%/ cover no-repeat;
+	margin: 0 0 0 0;
+	width: 15em;
+	border-radius: 15px;
+	box-shadow: 0 0 10px #000;
+	background-attachment: fixed;
+	background-position: -250px 100px;
+	background-size: contain;
+}
